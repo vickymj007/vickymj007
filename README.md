@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1QD21wZqf0THQxErcbsvBSNps116-xd_9/view?usp=sharing" align="center" style="width: 100%" />
+<img src="/vignesh2.png" align="center" style="width: 100%" />
 </div>  
   
 
